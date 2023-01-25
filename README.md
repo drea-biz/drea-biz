@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Drea
-- 👀 I’m interested in Data Science, Website Development, and SEO
-- 🌱 I’m currently learning Python, SQL, and Django
+- 👀 I’m interested in Data Science, Website Development, and SEO.
+- 🌱 I’m currently learning Python, SQL, R and Django.
 - 📫 How to reach me gmail: betterbiz.drea
 
 <!---
